@@ -1,5 +1,5 @@
-var articleApiKey = `https://api.airtable.com/v0/apph1eZbZp8qPEf7d/article?api_key=keyPBolSyO66VnA75`
-var userApiKey = `https://api.airtable.com/v0/apph1eZbZp8qPEf7d/User?api_key=keyPBolSyO66VnA75`;
+var articleApiKey = `https://api.airtable.com/v0/apph1eZbZp8qPEf7d/article?api_key=key6CWb0LNNbZtw3S`
+var userApiKey = `https://api.airtable.com/v0/apph1eZbZp8qPEf7d/User?api_key=key6CWb0LNNbZtw3S`;
 var page = window.location.search
 var page = page.substring(4)
 if (page == '') {
